@@ -15,7 +15,7 @@
         <property name="hibernate.show_sql">
             true</property>
         <property name="hibernate.hbm2ddl.auto">
-            create</property>
+            update</property>
         <property name="hibernate.dialect">
             org.hibernate.dialect.MySQL8Dialect</property>
     </session-factory>
